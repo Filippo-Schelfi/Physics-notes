@@ -1,2 +1,2 @@
 # Physics-notes
-This repository includes physics notes that I took when self-studying some topics that were not covered by the program at the University of Trento, where I am currently finishing my Bachelor's.
+This repository includes physics notes that I took when self-studying some topics that were not covered by the program at the University of Trento, where I am currently finishing my Bachelor's, and the notes on the paper "Decoherence, Einselection, and the Quantum Origins of the Classical" by Zurek, written within a group project for the class "Advanced Quantum Mechanics" at the University of Oslo.
